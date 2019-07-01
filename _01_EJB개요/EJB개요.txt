@@ -1,0 +1,4 @@
+** EJB(Enterprise Java Bean) **
+
+RMI(Remote Method Invocation): 자바에 내장된 기술 중 하나
+컴퓨터간에 또는 프로그램간에 통신(객체를 주고받는다 는 것)을 할 수 있는 기능
